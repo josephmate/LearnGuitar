@@ -297,10 +297,10 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               <fret>0</fret>
-              <string>3</string>
+              <string>2</string>
               </Note>
             </Chord>
           <Chord>
@@ -308,10 +308,10 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               <fret>0</fret>
-              <string>3</string>
+              <string>2</string>
               </Note>
             </Chord>
           <Chord>
@@ -647,10 +647,10 @@
             <Note>
               <linked>
                 </linked>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               <fret>0</fret>
-              <string>3</string>
+              <string>2</string>
               </Note>
             </Chord>
           <Chord>
@@ -660,10 +660,10 @@
             <Note>
               <linked>
                 </linked>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               <fret>0</fret>
-              <string>3</string>
+              <string>2</string>
               </Note>
             </Chord>
           <Chord>
